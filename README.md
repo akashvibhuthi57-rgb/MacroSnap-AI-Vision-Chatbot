@@ -2,6 +2,10 @@
 
 MacroSnap is an AI-powered nutrition assistant built with Streamlit and Google Gemini.
 
+## 🚀 Live Demo
+
+🔗 [Try MacroSnap AI Vision Chatbot](https://macrosnap-ai-vision-chatbot-ecbhstnqzgdoeac57vcexf.streamlit.app/)
+
 It allows users to:
 
 - 📸 Upload a meal photo
@@ -74,6 +78,3 @@ macrosnap/
     └── secrets.toml.example
 
 
-## 🚀 Live Demo
-
-🔗 [Try MacroSnap AI Vision Chatbot](https://macrosnap-ai-vision-chatbot-ecbhstnqzgdoeac57vcexf.streamlit.app/)
